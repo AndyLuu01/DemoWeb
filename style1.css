@@ -1,0 +1,83 @@
+.menu-bar{
+    background-color: #778899	;
+    
+}
+.menu-text1{
+    color: white;
+    
+}
+.Hi-login{
+    background-color: #7fffd4	;
+}
+
+.dangnhap{
+    margin-left: 10px;
+}
+.buy-item{
+    background-color: brown;
+    text-align: end;
+}
+.buy-item1{
+    background-color:turquoise;
+
+    margin-top: 50px;
+}
+.card-fix{
+    width: 50px;
+}
+.product-1{
+    margin-left: 20px;
+    background-color: brown;
+    text-align: end;
+}
+.vn-price{
+    background-color:yellow;
+    right: 0px;
+    top: 10px;
+}
+.title{
+    margin-left: 70px;
+}
+.lable{
+    margin-top: 30px;
+}
+.selected1{
+    width: 410px;
+    height: 40px;
+}
+.selected2{
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+}
+.selected3{
+    width: 250px;
+    height: 40px;
+}
+.selected4{
+    margin-left: 0px;
+    width: 300px;
+    height: 40px;
+}
+.image-field1{
+    width: 620px;
+}
+.image-click{
+   margin-left: -300px;
+}
+.vename1{
+    background-color: blue;
+    color: brown;
+    width: 220px;
+    height: 300px   ;
+}
+.register-form{
+    width: 300px;
+}
+.btn_log{
+    border-radius: 50%;
+    width: 300px;
+    margin-top: 10px;
+    background-color: black;
+    margin-left: 10px;
+}
